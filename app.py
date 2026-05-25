@@ -25,7 +25,7 @@
         button {
             padding: 10px 15px;
             border: none;
-            background: blue;
+            background: black;
             color: white;
             border-radius: 5px;
             cursor: pointer;
