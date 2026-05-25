@@ -32,7 +32,7 @@
         }
 
         button:hover {
-            background: darkblue;
+            background: blue;
         }
     </style>
 </head>
