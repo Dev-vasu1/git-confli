@@ -14,7 +14,7 @@
         }
 
         .card {
-            background: white;
+            background: green;
             padding: 20px;
             width: 300px;
             margin: auto;
